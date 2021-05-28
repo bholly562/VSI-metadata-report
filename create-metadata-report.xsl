@@ -4,4 +4,10 @@
     exclude-result-prefixes="xs"
     version="3.0">
     
+    
+    <xsl:output method="html"/>
+    
+    
+    <xsl:mode on-no-match="shallow-skip"/>
+    
 </xsl:stylesheet>
