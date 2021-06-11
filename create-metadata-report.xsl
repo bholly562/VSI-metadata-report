@@ -19,7 +19,9 @@
 
                 <table>
                     <thead>
-                        <tr/>
+                        <tr>
+                            <td></td>
+                        </tr>
                     </thead>
                     <tbody/>
                 </table>
