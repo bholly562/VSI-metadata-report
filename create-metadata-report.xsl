@@ -19,9 +19,15 @@
 
                 <table>
                     <thead>
-                        <tr>
-                            <td></td>
-                        </tr>
+						<tr>
+							<th>DOI</th>
+							<th>Part</th>
+							<th>Part type</th>
+							<th>Creator name (chapter meta)</th>
+							<th>Creator name (ONIX)</th>
+							<th>Creator affiliation (ONIX)</th>
+							<th>Possible match error</th>
+						</tr>
                     </thead>
                     <tbody/>
                 </table>
