@@ -29,7 +29,20 @@
 							<th>Possible match error</th>
 						</tr>
                     </thead>
-                    <tbody/>
+                    <tbody>
+						<tr>
+							<td>
+								<xsl:value-of select="(//chapter)[1]/@doi"/>
+							</td>
+							<td/>
+							<td/>
+							<td/>
+							<td/>
+							<td/>
+							<td/>
+						</tr>
+                    	
+                    </tbody>
                 </table>
             </body>
         </html>
